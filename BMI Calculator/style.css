@@ -1,0 +1,11 @@
+body{
+    background-color: rgb(70, 70, 67);
+    color: white;
+}
+
+#results, #guid-result{
+    font-size: 30px;
+    padding: 10px;
+    margin: 5px;
+    font-weight: bolder;
+}
