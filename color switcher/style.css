@@ -1,0 +1,40 @@
+body{
+    background-color:rgb(87, 82, 82) ;
+}
+
+h1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    padding: 20px;
+    color: black;
+    /* border: 5px solid white; */
+}
+
+.bigBox{
+    display: flex;
+    flex-direction:row;
+    align-items: center;
+    justify-content: center;
+}
+
+.box{
+    width: 100px;
+    height: 100px;
+    margin: 20px;
+    padding: 20px;
+    border: 4px solid white;
+}
+#box1{
+    background-color: yellow;
+}
+#box2{
+    background-color: red;
+}
+#box3{
+    background-color: black;
+}
+#box4{
+    background-color: cyan;
+}
